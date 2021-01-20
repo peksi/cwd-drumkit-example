@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.drumButton {
+  padding: 1rem;
+  border: 1px solid white;
+  margin: 1rem;
+  border-radius: 1rem;
+  width: 8rem;
+}
